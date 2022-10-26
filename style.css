@@ -1,0 +1,44 @@
+.head {
+  color: white;
+  text-align: center;
+  text-decoration-line: underline;
+  padding-bottom: 50px;
+  Padding-top: 10px;
+  text-decoration-color:#b27695;
+}
+
+a{
+  color: #b27695;
+  text-decoration-line: none;
+  font-family:cursive;
+}
+ul {
+  list-style-size: 50px;
+  size:50px;
+}
+
+li {
+  padding-bottom: 20px;
+}
+
+.center {
+  
+}
+
+body {
+  background-color:#635a5a;
+  color: white;
+}
+
+img {
+  width: 200px;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: .5px;
+  padding-bottom: 5px;
+}
+figcaption {
+  text-align: center;
+}
